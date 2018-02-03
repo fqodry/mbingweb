@@ -72,7 +72,7 @@
           <div class="subheading mb-5">Jl. H. Sapri No.75, Pd. Aren, Tangerang Selatan &middot; 0857-1005-4474 &middot;
             <a href="mailto:firman@mbing.web.id">firman@mbing.web.id</a>
           </div>
-          <p class="mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
+          <p class="mb-5">I am experienced in web development for almost 5 years. My core product are HRIS, e-commerce, personal/company profile, and many more. Sometimes I just did a simple job like repairing libraries or put some new module/feature on website. I am feeling happy to help people by build useful apps. &#9786;</p>
           <ul class="list-inline list-social-icons mb-0">
             <li class="list-inline-item">
               <a href="https://facebook.com/mfqodry">
@@ -91,7 +91,7 @@
               </a>
             </li>
             <li class="list-inline-item">
-              <a href="#">
+              <a href="https://www.linkedin.com/in/mfqodry/">
                 <span class="fa-stack fa-lg">
                   <i class="fa fa-circle fa-stack-2x"></i>
                   <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
@@ -116,45 +116,45 @@
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">Senior Web Developer</h3>
-              <div class="subheading mb-3">Intelitec Solutions</div>
-              <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
+              <h3 class="mb-0">Software Developer</h3>
+              <div class="subheading mb-3">Anabatic Solusi Digital (Group of Anabatic Technologies)</div>
+              <p>Due to change of management structure, me and my team are move to another company group of Anabatic Technologies. In this company we still focus on payment banking solution. For 2018 we start to build Loyalty and Campaign Program.</p>
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">March 2013 - Present</span>
+              <span class="text-primary">January 2018 - Present</span>
             </div>
           </div>
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">Web Developer</h3>
-              <div class="subheading mb-3">Intelitec Solutions</div>
-              <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>
+              <h3 class="mb-0">Software Developer</h3>
+              <div class="subheading mb-3">Mahacitta Technologies (Group of Anabatic Technologies)</div>
+              <p>We are pursuing to give solution for eCash &amp; emoney banking system also Bansos (Bantuan Sosial) &amp; Tani for Government Social Program. I take part as the apps builder a.k.a developer.</p>
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">December 2011 - March 2013</span>
+              <span class="text-primary">September 2017 - January 2018</span>
             </div>
           </div>
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">Junior Web Designer</h3>
-              <div class="subheading mb-3">Shout! Media Productions</div>
-              <p>Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.</p>
+              <h3 class="mb-0">IT Web Staff</h3>
+              <div class="subheading mb-3">Net Mediatama Televisi (NET. TV)</div>
+              <p>My first journey on television company. It's always be a good vibe to be able to work in here. NET. have a lot of talented young people with hi-level of creativity. I take role as IT Web Staff, who works at desk all the time. I think 2 years is enough to expand my knowledge and experience in here.</p>
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">July 2010 - December 2011</span>
+              <span class="text-primary">August 2015 - September 2017</span>
             </div>
           </div>
 
           <div class="resume-item d-flex flex-column flex-md-row">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">Web Design Intern</h3>
-              <div class="subheading mb-3">Shout! Media Productions</div>
-              <p>Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.</p>
+              <h3 class="mb-0">Application Developer</h3>
+              <div class="subheading mb-3">Nagitec</div>
+              <p>My first work experience after graduate are on small company Nagitec. I think it is a good company, I learned so many from here. About project management, developing web apps, and building own server.</p>
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">September 2008 - June 2010</span>
+              <span class="text-primary">June 2014 - August 2015</span>
             </div>
           </div>
 
@@ -168,24 +168,24 @@
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">University of Colorado Boulder</h3>
-              <div class="subheading mb-3">Bachelor of Science</div>
-              <div>Computer Science - Web Development Track</div>
-              <p>GPA: 3.23</p>
+              <h3 class="mb-0">Islamic State University Syarif Hidayatullah Jakarta</h3>
+              <div class="subheading mb-3">Bachelor of Technic</div>
+              <div>Informatics Engineering - Software and Multimedia Track</div>
+              <p>GPA: 3.49</p>
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">August 2006 - May 2010</span>
+              <span class="text-primary">July 2009 - June 2014</span>
             </div>
           </div>
 
           <div class="resume-item d-flex flex-column flex-md-row">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">James Buchanan High School</h3>
-              <div class="subheading mb-3">Technology Magnet Program</div>
-              <p>GPA: 3.56</p>
+              <h3 class="mb-0">34 State High School Jakarta</h3>
+              <div class="subheading mb-3">Natural Science Program</div>
+              <!-- <p>GPA: 3.56</p> -->
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">August 2002 - May 2006</span>
+              <span class="text-primary">August 2005 - July 2009</span>
             </div>
           </div>
 
@@ -199,37 +199,94 @@
           <div class="subheading mb-3">Programming Languages &amp; Tools</div>
           <ul class="list-inline list-icons">
             <li class="list-inline-item">
-              <i class="devicons devicons-html5"></i>
+              <i class="devicons devicons-scrum" title="Agile Development (Scrum)"></i>
             </li>
             <li class="list-inline-item">
-              <i class="devicons devicons-css3"></i>
+              <i class="devicons devicons-docker" title="Docker (Kubernetes)"></i>
             </li>
             <li class="list-inline-item">
-              <i class="devicons devicons-javascript"></i>
+              <i class="devicons devicons-html5" title="HTML5"></i>
             </li>
             <li class="list-inline-item">
-              <i class="devicons devicons-jquery"></i>
+              <i class="devicons devicons-css3" title="CSS3"></i>
             </li>
             <li class="list-inline-item">
-              <i class="devicons devicons-sass"></i>
+              <i class="devicons devicons-php" title="PHP"></i>
             </li>
             <li class="list-inline-item">
-              <i class="devicons devicons-less"></i>
+              <i class="devicons devicons-codeigniter" title="CodeIgniter"></i>
             </li>
             <li class="list-inline-item">
-              <i class="devicons devicons-bootstrap"></i>
+              <i class="devicons devicons-laravel" title="Laravel"></i>
             </li>
             <li class="list-inline-item">
-              <i class="devicons devicons-wordpress"></i>
+              <i class="devicons devicons-java" title="Java"></i>
             </li>
             <li class="list-inline-item">
-              <i class="devicons devicons-grunt"></i>
+              <i class="devicons devicons-netbeans" title="Netbeans"></i>
             </li>
             <li class="list-inline-item">
-              <i class="devicons devicons-gulp"></i>
+              <i class="devicons devicons-javascript" title="Javascript"></i>
             </li>
             <li class="list-inline-item">
-              <i class="devicons devicons-npm"></i>
+              <i class="devicons devicons-jquery" title="JQuery"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-jquery_ui" title="JQuery UI"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-sass" title="Sass"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-less" title="Less"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-materializecss" title="Materialize CSS"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-bootstrap" title="Twitter Bootstrap"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-wordpress" title="Wordpress"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-npm" title="npm"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-git" title="Git"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-github_badge" title="GitHub"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-bitbucket" title="Bitbucket"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-atlassian" title="Atlassian (Sourctree)"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-atom" title="Atom"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-sublime" title="SublimeText"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-intellij" title="Intellij Idea"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-mysql" title="MySQL"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-postgresql" title="PostgreSQL"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-linux" title="Linux"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-ubuntu" title="Ubuntu Desktop"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-redhat" title="RedHat Enterprise Linux"></i>
             </li>
           </ul>
 
@@ -254,8 +311,9 @@
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="interests">
         <div class="my-auto">
           <h2 class="mb-5">Interests</h2>
-          <p>Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skiier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.</p>
-          <p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technolgy advancements in the front-end web development world.</p>
+          <p>Apart from being a web developer, I enjoy most of my time being freelancer. I started on 2015 alone, and now I have a partner who help me to do the extra side jobs. In 2017 we thankful to have many jobs to expand our development knowledge. We create e-commerce system, invoice system, and personal/company website profile.</p>
+          <p>And this year 2018, we pursue to create our own software product and try to offer them to people or maybe company who need it. Our plan will focused on helping peoples problem in their daily life.</p>
+          <p class="mb-0">Beside that, me and my wife have a small business in culinary. We create a small catering service called <a href="https://instagram.com/dapurbunis">@dapurbunis</a>. DapurBunis born at August 2017, and we have primary dish to serve, it called Tumpeng Mini. Basically, Tumpeng Mini is a Tumpeng which has mini (we called it mini because the real size of Tumpeng is extremely large) size. &#9786; (don't you asked me about what Tumpeng is, because it's hard to explain btw, hahaha...)</p>
         </div>
       </section>
 
@@ -265,31 +323,16 @@
           <ul class="fa-ul mb-0">
             <li>
               <i class="fa-li fa fa-trophy text-warning"></i>
-              Google Analytics Certified Developer</li>
+              Oracle Certified Professional Java SE6 Programmer</li>
             <li>
               <i class="fa-li fa fa-trophy text-warning"></i>
-              Mobile Web Specialist - Google Certification</li>
+              Spring 4.0 Fundamental from Brainbench</li>
             <li>
               <i class="fa-li fa fa-trophy text-warning"></i>
-              1<sup>st</sup>
-              Place - University of Colorado Boulder - Emerging Tech Competition 2009</li>
+              Participant - Rockstar Dev - Hackathon 2015</li>
             <li>
               <i class="fa-li fa fa-trophy text-warning"></i>
-              1<sup>st</sup>
-              Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI Design Category)</li>
-            <li>
-              <i class="fa-li fa fa-trophy text-warning"></i>
-              2<sup>nd</sup>
-              Place - University of Colorado Boulder - Emerging Tech Competition 2008</li>
-            <li>
-            <li>
-              <i class="fa-li fa fa-trophy text-warning"></i>
-              1<sup>st</sup>
-              Place - James Buchanan High School - Hackathon 2006</li>
-            <li>
-              <i class="fa-li fa fa-trophy text-warning"></i>
-              3<sup>rd</sup>
-              Place - James Buchanan High School - Hackathon 2005</li>
+              Participant - Facebook DevC Jakarta - Hackathon 2017</li>
           </ul>
         </div>
       </section>
