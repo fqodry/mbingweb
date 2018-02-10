@@ -58,6 +58,9 @@
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#awards">Awards</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href="areyoutoughenough">&emsp;</a>
+          </li>
         </ul>
       </div>
     </nav>
@@ -72,7 +75,10 @@
           <div class="subheading mb-5">Jl. H. Sapri No.75, Pd. Aren, Tangerang Selatan &middot; 0857-1005-4474 &middot;
             <a href="mailto:firman@mbing.web.id">firman@mbing.web.id</a>
           </div>
-          <p class="mb-5">I am experienced in web development for almost 5 years. My core product are HRIS, e-commerce, personal/company profile, and many more. Sometimes I just did a simple job like repairing libraries or put some new module/feature on website. I am feeling happy to help people by build useful apps. &#9786;</p>
+          <p>I am experienced in web development for almost 5 years. My "signature dish" are HRIS, e-commerce, invoice system, file manager system, and personal/company profile. Sometimes I just did a simple job like repairing libraries or put some new module/feature on website. I am happy to help people by build useful apps. &#9786;</p>
+          <p>My favourite's quote are from Michael Jordan: 
+            <blockquote class="mb-5"><em>"I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed."</em></blockquote>
+          </p>
           <ul class="list-inline list-social-icons mb-0">
             <li class="list-inline-item">
               <a href="https://facebook.com/mfqodry">
