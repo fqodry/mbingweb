@@ -13,6 +13,11 @@ class Login extends MY_Controller {
 	}
 
 	function login() {
-		$this->load->view('login_view');
+		$data['form_login'] = base_url() . 'qoddportal/auth';
+		$this->load->view('login_view',$data);
+	}
+
+	function loginCommit() {
+
 	}
 }

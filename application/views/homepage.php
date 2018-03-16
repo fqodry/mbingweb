@@ -59,7 +59,7 @@
             <a class="nav-link js-scroll-trigger" href="#awards">Awards</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="login">&emsp;</a>
+            <a class="nav-link" href="qoddportal">&emsp;</a>
           </li>
         </ul>
       </div>
