@@ -26,10 +26,9 @@ class Login extends MY_Controller {
 			array(
 				'field'	=> 'userLOGINID',
 				'label'	=> 'Username/Email',
-				'rules'	=> 'trim|required|valid_email',
+				'rules'	=> 'trim|required',
 				'errors'	=> array(
-					'required' => 'Please input your %s.',
-					'valid_email' => 'Please enter a valid email address.'
+					'required' => 'Please input your %s.'
 				)
 			),
 			array(
@@ -54,8 +53,55 @@ class Login extends MY_Controller {
 		}else{
 			$userLOGINID = $this->input->post('userLOGINID');
 			$userLOGINPWD = $this->input->post('userLOGINPWD');
+			$userDATA = $this->Base_Model->getSingle('tb_user',array('username'=>$userLOGINID, 'active_status'=>true));
 
-			
+			if(empty($userDATA)){
+				$handler_msg = array(
+					'msg'		=> "<i class='fa fa-close'></i>&nbsp;You are not registered at QoddPortal. Please contact our admin at admin@qoddportal.id",
+					'type'	=> "danger"
+				);
+				$this->session->set_flashdata('handler_msg',$handler_msg);
+				redirect(base_url().'qoddportal');
+			}
+
+			if($this->bcrypt->check_password($userLOGINPWD, $userDATA->password) == TRUE) {
+				$userDATADETAIL = $this->Base_Model->getSingle('tb_userdetails',array('userid'=>$userDATA->userid));
+				$sessionDATA = array(
+					'userid'		=> $userDATA->userid,
+					'username'	=> $userDATA->username,
+					'email'		=> $userDATADETAIL->email,
+					'firstname'	=> $userDATADETAIL->firstname,
+					'lastname'	=> $userDATADETAIL->lastname
+				);
+				$this->session->set_userdata($sessionDATA);
+				redirect(base_url().'dashboard');
+			} else {
+				$handler_msg = array(
+					'msg'		=> "<i class='fa fa-close'></i>&nbsp;Invalid Username or Password",
+					'type'	=> "danger"
+				);
+				$this->session->set_flashdata('handler_msg',$handler_msg);
+				redirect(base_url().'qoddportal');
+			}
 		}
+	}
+
+	function logoutCommit() {
+		// removing session data
+		$sessArray = array(
+			'username'	=> ''
+		);
+		$this->session->unset_userdata('loggedIn',$sessArray);
+
+		// clear current session
+		// $this->session->sess_destroy();
+
+		// set flashdata
+		$handler_msg = array(
+			'msg'		=> "<i class='fa fa-check'></i>&nbsp;Logout Success.",
+			'type'	=> "success"
+		);
+		$this->session->set_flashdata('handler_msg',$handler_msg);
+		redirect(base_url().'qoddportal');
 	}
 }

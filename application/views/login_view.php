@@ -33,9 +33,12 @@
           <section class="login_content">
             <form id="formLogin" action="<?php echo $form_login ?>" method="post">
               <h1>Login Form</h1>
-              <div>
-                
-              </div>
+              <?php 
+                $flash_message = $this->session->flashdata('handler_msg');
+                if( ! empty($flash_message) ) {
+                  echo '<p class="alert alert-'. $flash_message['type'] .'" id="flash_message"><b>'. $flash_message['msg'] .'</b></p>';
+                }
+              ?>
               <div>
                 <input type="text" class="form-control" name="userLOGINID" placeholder="Username/Email" required />
               </div>
