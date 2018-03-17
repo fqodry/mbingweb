@@ -34,10 +34,13 @@
             <form id="formLogin" action="<?php echo $form_login ?>" method="post">
               <h1>Login Form</h1>
               <div>
-                <input type="text" class="form-control" placeholder="Username/Email" required />
+                
               </div>
               <div>
-                <input type="password" class="form-control" placeholder="Password" required />
+                <input type="text" class="form-control" name="userLOGINID" placeholder="Username/Email" required />
+              </div>
+              <div>
+                <input type="password" class="form-control" name="userLOGINPWD" placeholder="Password" required />
               </div>
               <div>
                 <button type="submit" class="btn btn-default">Log In</button>
