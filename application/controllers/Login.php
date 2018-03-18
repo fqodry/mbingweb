@@ -14,8 +14,12 @@ class Login extends MY_Controller {
 	}
 
 	function login() {
-		$data['form_login'] = base_url() . 'qoddportal/auth';
-		$this->load->view('login_view',$data);
+		if(isset($this->session->userdata['loggedIn'])){
+			redirect(base_url().'dashboard');
+		}else{
+			$data['form_login'] = base_url() . 'login/loginCommit';
+			$this->load->view('login_view',$data);
+		}
 	}
 
 	function loginCommit() {
@@ -47,7 +51,7 @@ class Login extends MY_Controller {
 			if(isset($this->session->userdata['loggedIn'])){
 				redirect(base_url().'dashboard');
 			}else{
-				$data['form_login'] = base_url() . 'qoddportal/auth';
+				$data['form_login'] = base_url() . 'login/loginCommit';
 				$this->load->view('login_view',$data);
 			}
 		}else{
@@ -61,7 +65,7 @@ class Login extends MY_Controller {
 					'type'	=> "danger"
 				);
 				$this->session->set_flashdata('handler_msg',$handler_msg);
-				redirect(base_url().'qoddportal');
+				redirect(base_url().'login');
 			}
 
 			if($this->bcrypt->check_password($userLOGINPWD, $userDATA->password) == TRUE) {
@@ -73,7 +77,7 @@ class Login extends MY_Controller {
 					'firstname'	=> $userDATADETAIL->firstname,
 					'lastname'	=> $userDATADETAIL->lastname
 				);
-				$this->session->set_userdata($sessionDATA);
+				$this->session->set_userdata('loggedIn',$sessionDATA);
 				redirect(base_url().'dashboard');
 			} else {
 				$handler_msg = array(
@@ -81,7 +85,7 @@ class Login extends MY_Controller {
 					'type'	=> "danger"
 				);
 				$this->session->set_flashdata('handler_msg',$handler_msg);
-				redirect(base_url().'qoddportal');
+				redirect(base_url().'login');
 			}
 		}
 	}
@@ -102,6 +106,6 @@ class Login extends MY_Controller {
 			'type'	=> "success"
 		);
 		$this->session->set_flashdata('handler_msg',$handler_msg);
-		redirect(base_url().'qoddportal');
+		redirect(base_url().'login');
 	}
 }

@@ -13,6 +13,10 @@ class Dashboard extends MY_Controller {
 	}
 
 	function qoddDashboard() {
-		$this->loadView('main');
+		if(isset($this->session->userdata['loggedIn'])){
+			$this->loadView('main');
+		}else{
+			redirect(base_url().'login');
+		}
 	}
 }

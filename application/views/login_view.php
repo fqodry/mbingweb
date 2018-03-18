@@ -47,7 +47,7 @@
               </div>
               <div>
                 <button type="submit" class="btn btn-default">Log In</button>
-                <a class="reset_pass" href="qoddportal">Lost your password?</a>
+                <a class="reset_pass" href="login">Lost your password?</a>
               </div>
 
               <div class="clearfix"></div>
@@ -90,7 +90,7 @@
 
               <div class="separator">
                 <p class="change_link">Already a member ?
-                  <a href="qoddportal#signin" class="to_register"> Log in </a>
+                  <a href="login#signin" class="to_register"> Log in </a>
                 </p>
 
                 <div class="clearfix"></div>
